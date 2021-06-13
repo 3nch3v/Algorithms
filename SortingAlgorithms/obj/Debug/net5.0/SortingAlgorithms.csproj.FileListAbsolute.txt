@@ -1,0 +1,16 @@
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.exe
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.deps.json
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.json
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.dev.json
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.dll
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.pdb
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csprojAssemblyReference.cache
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfo.cs
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.dll
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
+D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache
