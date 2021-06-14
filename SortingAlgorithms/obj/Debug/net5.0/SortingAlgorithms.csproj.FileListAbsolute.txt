@@ -14,3 +14,19 @@ D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingA
 D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
 D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
 D:\Developer\TestProjects\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.exe
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.deps.json
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.json
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.runtimeconfig.dev.json
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.dll
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\bin\Debug\net5.0\SortingAlgorithms.pdb
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csprojAssemblyReference.cache
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.AssemblyInfo.cs
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.dll
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\ref\SortingAlgorithms.dll
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.pdb
+D:\GitHub Repository\Algorithms\Algorithms\SortingAlgorithms\obj\Debug\net5.0\SortingAlgorithms.genruntimeconfig.cache

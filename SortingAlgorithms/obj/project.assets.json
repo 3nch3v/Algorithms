@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer\\TestProjects\\Algorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
+      "projectUniqueName": "D:\\GitHub Repository\\Algorithms\\Algorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
       "projectName": "SortingAlgorithms",
-      "projectPath": "D:\\Developer\\TestProjects\\Algorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
+      "projectPath": "D:\\GitHub Repository\\Algorithms\\Algorithms\\SortingAlgorithms\\SortingAlgorithms.csproj",
       "packagesPath": "C:\\Users\\ivane\\.nuget\\packages\\",
-      "outputPath": "D:\\Developer\\TestProjects\\Algorithms\\SortingAlgorithms\\obj\\",
+      "outputPath": "D:\\GitHub Repository\\Algorithms\\Algorithms\\SortingAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivane\\AppData\\Roaming\\NuGet\\NuGet.Config",
